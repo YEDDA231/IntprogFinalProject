@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\",
+  "WorkspaceRootPath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\finalproject\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\intprogfinalproject\\finalproject\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\finalproject\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\intprogfinalproject\\finalproject\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|solutionrelative:views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\finalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\intprogfinalproject\\finalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\finalproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\intprogfinalproject\\finalproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\finalproject\\finalproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\intprogfinalproject\\finalproject\\finalproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|solutionrelative:finalproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|c:\\users\\joebe\\desktop\\new folder (3)\\intprogfinalproject\\finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EEB466E4-0E6E-48BD-9922-AC67B2901C6B}|finalproject.csproj|solutionrelative:finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\Views\\Cart\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\Views\\Cart\\Index.cshtml",
               "RelativeToolTip": "Views\\Cart\\Index.cshtml",
               "ViewState": "AgIAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\Views\\Admin\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\Views\\Admin\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Create.cshtml",
-              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\Views\\Admin\\Create.cshtml",
               "RelativeToolTip": "Views\\Admin\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "finalproject",
-              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\finalproject.csproj",
+              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj",
               "RelativeDocumentMoniker": "finalproject.csproj",
-              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\finalproject.csproj",
+              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj",
               "RelativeToolTip": "finalproject.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-03T17:13:33.721Z"
@@ -100,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "finalproject.csproj",
-              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\finalproject.csproj",
+              "DocumentMoniker": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj",
               "RelativeDocumentMoniker": "finalproject.csproj",
-              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\finalproject.csproj",
+              "ToolTip": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj",
               "RelativeToolTip": "finalproject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

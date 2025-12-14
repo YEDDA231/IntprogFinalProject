@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o4wLBTRdh9E=",
+  "dgSpecHash": "0bDlRD08RNQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\finalproject.csproj",
+  "projectFilePath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joebe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\joebe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -97,5 +97,15 @@
     "C:\\Users\\joebe\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\joebe\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\finalproject.csproj": {}
+    "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\finalproject.csproj": {
+    "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\finalproject.csproj",
+        "projectUniqueName": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj",
         "projectName": "finalproject",
-        "projectPath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\finalproject.csproj",
+        "projectPath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\finalproject.csproj",
         "packagesPath": "C:\\Users\\joebe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\finalproject\\obj\\",
+        "outputPath": "C:\\Users\\joebe\\Desktop\\New folder (3)\\IntprogFinalProject\\finalproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
